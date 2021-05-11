@@ -14,7 +14,7 @@
   <CommitMessage xsi:nil="true"></CommitMessage>
   <Publisher xsi:nil="true"></Publisher>
   <AuthorizationReferences>[]</AuthorizationReferences>
-  <ConnectionReferences>{"4446903d-eac0-4c15-922d-51dd474b6f98":{"id":"/providers/microsoft.powerapps/apis/shared_sql","displayName":"SQL Server","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1447/1.0.1447.2351/sql/icon.png","dataSources":["[dbo].[Todo]"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"sharedConnectionId":"9ca2f6e2-23f8-45f7-a5b6-3854c9242030","bypassConsent":false,"dataSets":{"bikessqlsvr.database.windows.net,bikessqldb":{"dataSources":{"[dbo].[Todo]":{"tableName":"[dbo].[Todo]"}}}},"apiTier":"Premium","endpoints":["bikessqlsvr.database.windows.net,bikessqldb"]}}</ConnectionReferences>
+  <ConnectionReferences>{"4446903d-eac0-4c15-922d-51dd474b6f98":{"id":"/providers/microsoft.powerapps/apis/shared_sql","displayName":"SQL Server","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1447/1.0.1447.2351/sql/icon.png","dataSources":["[dbo].[Todo]"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"sharedConnectionId":"9e4173b6-4fa4-4a23-97a3-cb09c8efbfd8","bypassConsent":false,"dataSets":{"bikessqlsvr.database.windows.net,bikessqldb":{"dataSources":{"[dbo].[Todo]":{"tableName":"[dbo].[Todo]"}}}},"apiTier":"Premium","endpoints":["bikessqlsvr.database.windows.net,bikessqldb"]}}</ConnectionReferences>
   <DatabaseReferences>{}</DatabaseReferences>
   <AppComponents>[]</AppComponents>
   <AppComponentDependencies>[]</AppComponentDependencies>
