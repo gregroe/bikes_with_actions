@@ -74,7 +74,7 @@ jobs:
     - name: Import solution to prod env
       uses: microsoft/powerplatform-actions/import-solution@v0
       with:
-        environment-url: 'https://orgbd28c54a.crm.dynamics.com/'
+        environment-url: 'https://orgfdf81182.crm.dynamics.com/'
         user-name: 'gregroe@bakerblackdog.onmicrosoft.com'
         password-secret: ${{ secrets.passwordbakerblackdog }}
         solution-file: out/release/Bikes.zip
