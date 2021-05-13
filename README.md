@@ -16,4 +16,4 @@ workflow:
 
 
 
-![name-of-you-image](https://your-copied-image-address)
+![Contosobikes](https://github.com/gregroe/bikes_with_actions/blob/main/Contosobikes.png)
